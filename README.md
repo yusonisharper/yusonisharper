@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Odoo](https://github.com/yusonisharper/odoo)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<a href="https://www.linkedin.com/in/yusheng-wang-b20974299/">LinkedIn</a></h3>
 <p align="left">
 </p>
 
